@@ -1,2 +1,2 @@
 Started learning Git and GitHub from scratch.
-Currently Learning about braches and merging at 533 hours.
+Currently Learning about braches and merging at 543 hours.
